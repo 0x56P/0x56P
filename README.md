@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm pepa full stack developer</h1>
 <h3 align="center">I'm a guy from Spain who likes programming</h3>
 
-- 🔭 I’m currently working on a free .net obfuscator
-
 - 🌱 I’m currently learning c++
 
-- 📫 How to reach me pepa#7928 or pepapig.miki@gmail.com
+- 📫 How to reach me 0x56p on discord or pepapig.miki@gmail.com
 
 
 <h3 align="left">Languages and Tools (Learning):</h3>
