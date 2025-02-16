@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning c++
 
-- 📫 How to reach me 0x56p on discord or pepapig.miki@gmail.com
+- 📫 How to reach me k9prod on discord or pepapig.miki@gmail.com
 
 
 <h3 align="left">Languages and Tools:</h3>
